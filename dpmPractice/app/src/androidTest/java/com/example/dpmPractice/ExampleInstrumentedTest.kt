@@ -1,4 +1,4 @@
-package com.example.dpmpractice
+package com.example.dpmPractice
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         scaleTypeButton.setOnClickListener(object : View.OnClickListener {
             var isDefault = true
+            
             override fun onClick(v: View?) {
                 isDefault = !isDefault
                 if(isDefault) photoView.scaleType = ImageView.ScaleType.CENTER_CROP

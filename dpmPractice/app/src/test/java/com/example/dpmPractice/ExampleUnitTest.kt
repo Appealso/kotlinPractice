@@ -1,4 +1,4 @@
-package com.example.dpmpractice
+package com.example.dpmPractice
 
 import org.junit.Test
 
